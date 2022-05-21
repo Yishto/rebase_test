@@ -13,4 +13,5 @@ func main() {
 	fmt.Println("rebase7")
 	fmt.Println("rebase8")
 	fmt.Println("rebase9")
+	fmt.Println("rebase10")
 }
